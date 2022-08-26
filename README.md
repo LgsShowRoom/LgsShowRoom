@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LgsShowRoom
+- 👀 I’m interested in Python,Rust, Blockchain and Ipfs . 
+- 🌱 I’m currently learning Web 3
+- 💞️ I’m looking to collaborate on Web3 and smart-contract
+- 📫
